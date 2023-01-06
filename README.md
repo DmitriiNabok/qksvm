@@ -52,7 +52,7 @@ We provide a simplified wrapper for QKT functions implemented in [Qiskit QKT](ht
 ### 0. Clone the repository
 
 ```bash
-git clone https://jugit.fz-juelich.de/qai2/qksvm
+git clone git@github.com:DmitriiNabok/qksvm.git
 cd qksvm
 ```
 
